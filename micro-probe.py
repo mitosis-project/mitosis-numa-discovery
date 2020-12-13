@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+#
+# Copyright (C) 2018-2019 VMware, Inc.
+# SPDX-License-Identifier: GPL-2.0
+#
 
 import os
 import sys
